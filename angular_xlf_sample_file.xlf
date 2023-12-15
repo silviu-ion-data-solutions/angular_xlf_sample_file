@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="fr" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="app" datatype="html">
+        <source>TODO List</source>
+        <target>TODO List</target>
+        <note priority="1" from="description">Please don&apos;t change the name of the application</note>
+        <note priority="1" from="meaning">app title</note>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="credentials" datatype="html">
+        <source>Enter your credentials below to login</source>
+        <target>Entrez vos identifiants ci-dessous pour vous connecter</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="login" datatype="html">
+        <source>Login successful !
+Welcome back %s !</source>
+        <target>Connexion réussie !
+Bon retour %s !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="validate" datatype="html">
+        <source>Make sure you&apos;ve entered the correct username and password</source>
+        <target>Assurez-vous que vous avez entré le nom d&apos;utilisateur correct et le mot de passe</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="forgot" datatype="html">
+        <source>I forgot my password</source>
+        <target>J&apos;ai oublié mon mot de passe</target>
+        <note priority="1" from="meaning">link</note>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="info" datatype="html">
+        <source>Enter your address in the field below. A new password will be sent to your inbox.</source>
+        <target>Entrez votre adresse dans le champ ci-dessous. Un nouveau mot de passe sera envoyé à votre boîte de réception.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="subtitle" datatype="html">
+        <source>Sign up for free! No credit card required!</source>
+        <target>Inscrivez-vous gratuitement ! Aucune carte de crédit !</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="success" datatype="html">
+        <source>Thank you for signing up !
+Please check your email address to activate your account.</source>
+        <target>Je vous remercie pour vous inscrire !
+Veuillez vérifier votre adresse e-mail pour activer votre compte.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="error" datatype="html">
+        <source>We were unable to sign you up.
+Please correct the marked fields.</source>
+        <target>Nous n&apos;avons pas pu vous inscrire.
+Veuillez corriger les champs marqués.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="terms_and_conditions" datatype="html">
+        <source>Terms and conditions</source>
+        <target>Termes et conditions</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="password" datatype="html">
+        <source>Password</source>
+        <target>Mot de passe</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">/app/modules/views</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
