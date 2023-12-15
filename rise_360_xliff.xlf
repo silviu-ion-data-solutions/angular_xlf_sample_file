@@ -1,0 +1,57 @@
+<xliff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" version="1.2">
+    <file original="course" datatype="plaintext" source-language="en-US">
+        <body>
+            <trans-unit id="title">
+                <source>Employee Health and Wellness (Sample Course)</source>
+            </trans-unit>
+            <trans-unit id="description">
+                <source>
+                    <g id="ExxV7JFxLWiQhvqx" ctype="x-html-p">We’re committed to creating a work environment that promotes employee health and wellness. This course is the first step in raising awareness about the rollout of our new workplace health program, which includes promoting activities or policies that encourage and support healthy behaviors in the workplace.</g><g id="ur_a2q5964wTgz_G" ctype="x-html-p"><x id="TslTo8cVDmyQ2rx-" ctype="x-html-br"/></g>
+                    <g id="DhAbQRFgpqssk-F1" ctype="x-html-p">Developing a thoughtful workplace health program has the potential to transform our organization. We hope it increases employee wellness, work satisfaction, and productivity. In this course, we’ll introduce some wellness concepts to kick off our wellness journey. Let’s get started!</g>
+                </source>
+            </trans-unit>
+        </body>
+    </file>
+    <file original="6W4CNsd_2dxMwYSGy0tkfdCwxOVNJYFS" datatype="plaintext" source-language="en-US">
+        <body>
+            <trans-unit id="title">
+                <source>Introduction</source>
+            </trans-unit>
+        </body>
+    </file>
+    <file original="EuYlF6eGj7RAOfXnjJX3q6Yur8IRmBPN" datatype="plaintext" source-language="en-US">
+        <body>
+            <trans-unit id="title">
+                <source>5 Weeks to a Healthier You</source>
+            </trans-unit>
+            <trans-unit id="items|0|items|0|caption">
+                <source>
+                    <g id="l9UKERsXgFBy3P9J" ctype="x-html-p">Here's how</g>
+                </source>
+            </trans-unit>
+            <trans-unit id="items|0|items|0|paragraph">
+                <source>
+                    <g id="KrkcIKIUndqprkgw" ctype="x-html-p">Let’s face it: many of us don’t pause to reflect on our habits until it’s too late—by then we’re sick, crabby, and overworked. </g>
+                </source>
+            </trans-unit>
+            <trans-unit id="items|2|answers|0|title">
+                <source>Chronic stress</source>
+            </trans-unit>
+            <trans-unit id="items|2|answers|0|matchTitle">
+                <source>Increased blood pressure</source>
+            </trans-unit>
+            <trans-unit id="items|2|answers|1|title">
+                <source>Lack of restful sleep</source>
+            </trans-unit>
+            <trans-unit id="items|2|answers|1|matchTitle">
+                <source>Irritability</source>
+            </trans-unit>
+            <trans-unit id="items|2|answers|2|title">
+                <source>No time with friends</source>
+            </trans-unit>
+            <trans-unit id="items|2|answers|2|matchTitle">
+                <source>Feelings of isolation</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
