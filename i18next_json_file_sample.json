@@ -1,0 +1,17 @@
+{
+    "app": {
+        "name": "TODO List",
+        "page": "Login",
+        "login": {
+            "text": "Enter your credentials below to login",
+            "message": {
+                "success": "Login successful!\nWelcome back {{name}}!",
+                "error": "Make sure you've entered the correct username and password"
+            }
+        }
+    },
+    "usersOnline_one": "Just one user online",
+    "usersOnline_other": "{{count}} users online",
+
+    "availableLanguages": ["English", "French", "Italian"]
+}

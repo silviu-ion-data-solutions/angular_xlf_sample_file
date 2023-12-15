@@ -1,0 +1,28 @@
+{
+    "appName": "TODO List",
+    "@appName": {
+        "description": "Please don't change the name of the application",
+        "type": "text"
+    },
+    "loginText": "Enter your credentials below to login",
+    "loginMessageSuccess": "Login successful!\nWelcome back %s!",
+    "loginMessageError": "Make sure you've entered the correct username and password",
+    "loginPasswordForget": "I forgot my password",
+    "loginPasswordReset": "Enter your address in the field below. A new password will be sent to your inbox.",
+    "registerText": "Sign up for free! No credit card required!",
+    "registerMessageSuccess": "Thank you for signing up !\nPlease check your email address to activate your account.",
+    "registerMessageError": "We were unable to sign you up.\nPlease correct the marked fields.",
+    "menuTerms": "Terms and conditions",
+    "onlineUsersOne": "Just {count} user online.",
+    "onlineUsersOther": "There are {count} users online.",
+    "@onlineUsers": {
+        "description": "This is displayed in My Account page",
+        "type": "text",
+        "placeholders": {
+            "count": {
+                "description": "number of users online",
+                "example": "26"
+            }
+        }
+    }
+}
